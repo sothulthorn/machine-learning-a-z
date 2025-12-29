@@ -16,3 +16,6 @@
    - Naive Bayes
    - Decision Tree Classification
    - Random Forest Classification
+4. Clustering
+   - K-Means Clustering
+   - Hierarchical Clustering
