@@ -9,3 +9,10 @@
    - Decision Tree Regression
    - Random Forest Regression
 3. Classification
+   - Logistic Regression
+   - K-Nearest Neighbors (K-NN)
+   - Support Vector Machine (SVM)
+   - Kernel SVM
+   - Naive Bayes
+   - Decision Tree Classification
+   - Random Forest Classification
