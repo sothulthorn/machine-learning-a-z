@@ -19,3 +19,6 @@
 4. Clustering
    - K-Means Clustering
    - Hierarchical Clustering
+5. Associate Rule Learning
+   - Apriori
+   - Eclat
