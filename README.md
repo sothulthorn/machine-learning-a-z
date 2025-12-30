@@ -29,3 +29,7 @@
 8. Deep Learning
    - Artificial Neural Networks (ANN)
    - Convolutional Neural Networks (CNN)
+9. Dimensionality Reduction
+   - Principal Component Analysis (PCA)
+   - Linear Discriminant Analysis (LDA)
+   - Kernal PCA
