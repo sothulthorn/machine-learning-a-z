@@ -33,3 +33,6 @@
    - Principal Component Analysis (PCA)
    - Linear Discriminant Analysis (LDA)
    - Kernal PCA
+10. Model Section & Boosting
+    - Model Section
+    - XGBoost
